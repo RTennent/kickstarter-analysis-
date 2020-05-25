@@ -5,8 +5,8 @@ This project reviews data points to determine the drivers of outcomes for succes
 
 Objective and Approach
 
-•	The goal was to develop insights into what factors influence successful crowdfunding campaigns, particularly for plays.
-•	I used Excel to analyze data related to crowdfunding campaigns going back to 2009. 
+•	The goal was to develop insights into what factors influence successful crowdfunding campaigns, particularly for plays
+•	I used Excel to analyze data related to crowdfunding campaigns going back to 2009 
 
 Conclusions
 
@@ -32,4 +32,6 @@ Both the amounts raised through crowdfunding as well as the number and range of 
 
 
 ![Campaign_Outcome_by_Subcategory.name.png]
+![Kickstarter_Outcomes_Goals.png]
+![Kickstarter_Outcomes_Launchdate.png]
   
